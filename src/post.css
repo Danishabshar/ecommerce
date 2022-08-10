@@ -1,0 +1,19 @@
+.select{
+    width: 25vh;
+}
+.i4{
+    height: 20vh;
+    width: 20vh;
+}
+
+img{
+    height: 10vh;
+    width: 10vh;
+}
+.post{
+    display: inline-block;
+    margin-top: 20vh;
+    align-items: center;
+    justify-content: center;
+    
+}
